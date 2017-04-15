@@ -638,6 +638,11 @@ legend span {
        font-size:70px; 
        line-height;80px;
     }
+    
+    h1 {
+      font-size:110px;  
+    }
+    
     /*
     .container > p {
         font-size:80px; 
@@ -648,9 +653,7 @@ legend span {
         font-size:110px;
     }
     
-    h1 {
-      font-size:120px;  
-    }
+ 
     
     h2 {
        font-size:100px; 
