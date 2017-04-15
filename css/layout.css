@@ -863,3 +863,37 @@ footer ul.photostream li a {
    color: transparent;
 }
 #go-top a:hover { background-color: #1E83B6; }
+
+@media screen and (max-device-width: 640px){
+    
+    .drop-cap {
+       font-size:70px; 
+       line-height:80px;
+    }
+    
+    .mobile-big *, .mobile-big {
+       font-size:70px;
+       line-height:80px;
+     }
+    
+    h1 {
+      font-size:110px;  
+    }
+     
+    /*   
+    h2 {
+       font-size:100px; 
+    }
+   
+    .container > p {
+        font-size:80px; 
+        line-height:90px;       
+    }
+    
+    .drop-cap:first-letter {
+        font-size:110px;
+    }
+    
+ 
+    */
+}

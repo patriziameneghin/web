@@ -632,37 +632,5 @@ legend span {
 .pull-left    { float: left; }
 .pull-right   { float: right; }
 
-@media screen and (max-device-width: 640px){
-    
-    .drop-cap {
-       font-size:70px; 
-       line-height:80px;
-    }
-    
-    .mobile-big *, .mobile-big {
-       font-size:70px; 
-     }
-    
-    h1 {
-      font-size:110px;  
-    }
-     
-    /*   
-    h2 {
-       font-size:100px; 
-    }
-   
-    .container > p {
-        font-size:80px; 
-        line-height:90px;       
-    }
-    
-    .drop-cap:first-letter {
-        font-size:110px;
-    }
-    
- 
-    */
-}
 
 
