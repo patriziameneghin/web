@@ -151,7 +151,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
    color: #800000;
 	font-family: Domine, Serif;
-	font-weight: bold; }
+	font-weight: bold;
+	white-space: nowrap; }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
 h1 { font-size: 48px; line-height: 54px; margin-bottom: 12px;}
 h2 { font-size: 30px; line-height: 42px; margin-bottom: 6px; }
@@ -270,17 +271,17 @@ abbr:hover { cursor: help; }
 }
 
 @media screen and (max-device-width: 640px){
-    .drop-cap {
+    p {
         font-size:60px; 
-        line-height: 100px; 
+        line-height: 80px; 
     }
     
     .drop-cap:first-letter {
-        font-size:70px;
+        font-size:90px;
     }
     
     h2 {
-       font-size:90px; 
+       font-size:100px; 
     }
 }
 
