@@ -639,7 +639,7 @@ legend span {
        line-height:80px;
     }
     
-    .mobile-big {
+    .mobile-big * {
        font-size:70px; 
      }
     
