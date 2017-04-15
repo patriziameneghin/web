@@ -871,7 +871,7 @@ footer ul.photostream li a {
        line-height:80px;
     }
     
-    .mobile-big *, .mobile-big {
+    .mobile-big * {
        font-size:70px;
        line-height:80px;
      }
