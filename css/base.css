@@ -635,7 +635,8 @@ legend span {
 @media screen and (max-device-width: 640px){
     
     .drop-cap {
-       font-size:80px; 
+       font-size:70px; 
+       line-height;80px;
     }
     /*
     .container > p {
