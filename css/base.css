@@ -633,6 +633,7 @@ legend span {
 .pull-right   { float: right; }
 
 @media screen and (max-device-width: 640px){
+    /*
     .container > p {
         font-size:80px; 
         line-height:90px;       
@@ -649,6 +650,7 @@ legend span {
     h2 {
        font-size:100px; 
     }
+    */
 }
 
 
