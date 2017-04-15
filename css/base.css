@@ -284,16 +284,20 @@ abbr:hover { cursor: help; }
     }
     
     .drop-cap:first-letter {
-        font-size:100px;
+        font-size:110px;
+    }
+    
+    #title-section * {
+        font-size:90px;   
     }
     
     h1 {
-      font-size:110px;  
+      font-size:120px;  
     }
     
     h2 {
        font-size:100px; 
-       margin-bottom:15px;
+       margin-bottom:25px;
     }
 }
 
