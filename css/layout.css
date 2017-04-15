@@ -853,7 +853,7 @@ footer ul.photostream li a {
         font-size:170px;
     }
     
-    .mobile-big * {
+    .mobile-big *, #title-section p {
        font-size:60px;
        line-height:70px;
      }
