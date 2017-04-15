@@ -274,32 +274,6 @@ abbr:hover { cursor: help; }
 	color: inherit;
 }
 
-@media screen and (max-device-width: 640px){
-    p {
-        font-size:80px;       
-    }
-    
-    .drop-cap {
-        line-height: 90px;
-    }
-    
-    .drop-cap:first-letter {
-        font-size:110px;
-    }
-    
-    #title-section * {
-        font-size:90px;   
-    }
-    
-    h1 {
-      font-size:120px;  
-    }
-    
-    h2 {
-       font-size:100px; 
-       margin-bottom:25px;
-    }
-}
 
 hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 11px 0 30px; height: 0; }
 
@@ -658,4 +632,30 @@ legend span {
 .pull-left    { float: left; }
 .pull-right   { float: right; }
 
+@media screen and (max-device-width: 640px){
+    p {
+        font-size:80px;       
+    }
+    
+    .drop-cap {
+        line-height: 90px;
+    }
+    
+    .drop-cap:first-letter {
+        font-size:110px;
+    }
+    
+    #title-section * {
+        font-size:70px;   
+    }
+    
+    h1 {
+      font-size:120px;  
+    }
+    
+    h2 {
+       font-size:100px; 
+       margin-bottom:25px;
+    }
+}
 
