@@ -269,6 +269,12 @@ abbr:hover { cursor: help; }
 	color: inherit;
 }
 
+@media screen and (max-device-width: 640px){
+.drop-cap {
+    font-size:44px;  
+}
+}
+
 hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 11px 0 30px; height: 0; }
 
 
