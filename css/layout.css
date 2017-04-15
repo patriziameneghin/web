@@ -872,12 +872,12 @@ footer ul.photostream li a {
     }
     
     .drop-cap:first-letter {
-        font-size:110px;
+        font-size:130px;
     }
     
     .mobile-big * {
-       font-size:70px;
-       line-height:80px;
+       font-size:60px;
+       line-height:70px;
      }
     
     h1 {
