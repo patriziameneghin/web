@@ -633,18 +633,13 @@ legend span {
 .pull-right   { float: right; }
 
 @media screen and (max-device-width: 640px){
-    * p {
+    .container > p {
         font-size:80px; 
         line-height:90px;       
     }
     
     .drop-cap:first-letter {
         font-size:110px;
-    }
-    
-    .pull-quote * {
-        font-size:80px; 
-        line-height:90px;  
     }
     
     h1 {
