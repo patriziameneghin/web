@@ -272,8 +272,15 @@ abbr:hover { cursor: help; }
 @media screen and (max-device-width: 640px){
 .drop-cap {
     font-size:60px; 
-    line-height: 120px; 
+    line-height: 100px; 
 }
+
+.drop-cap:first-letter {
+    font-size:70px;
+}
+
+h2 {
+   font-size:90px; 
 }
 
 hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 11px 0 30px; height: 0; }
