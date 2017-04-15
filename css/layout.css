@@ -867,12 +867,12 @@ footer ul.photostream li a {
 @media screen and (max-device-width: 640px){
     
     .drop-cap {
-       font-size:70px; 
-       line-height:80px;
+       font-size:65px; 
+       line-height:75px;
     }
     
     .drop-cap:first-letter {
-        font-size:130px;
+        font-size:160px;
     }
     
     .mobile-big * {
