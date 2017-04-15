@@ -636,11 +636,15 @@ legend span {
     
     .drop-cap, .bigMobile {
        font-size:70px; 
-       line-height;80px;
+       line-height:80px;
     }
     
     h1 {
       font-size:110px;  
+    }
+       
+    h2 {
+       font-size:100px; 
     }
     
     /*
@@ -654,10 +658,6 @@ legend span {
     }
     
  
-    
-    h2 {
-       font-size:100px; 
-    }
     */
 }
 
