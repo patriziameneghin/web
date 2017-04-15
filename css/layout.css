@@ -881,7 +881,7 @@ footer ul.photostream li a {
         font-size:60px;   
     }
     
-    .pull-quote {
+    .pull-quote * {
         font-size:90px;   
     }
     
