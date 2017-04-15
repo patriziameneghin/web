@@ -645,10 +645,6 @@ legend span {
         font-size:110px;
     }
     
-    #title-section * {
-        font-size:60px;   
-    }
-    
     .pull-quote * {
         font-size:80px; 
         line-height:90px;  
@@ -660,7 +656,6 @@ legend span {
     
     h2 {
        font-size:100px; 
-       margin-bottom:25px;
     }
 }
 
