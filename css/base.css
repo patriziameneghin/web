@@ -633,6 +633,10 @@ legend span {
 .pull-right   { float: right; }
 
 @media screen and (max-device-width: 640px){
+    
+    .drop-cap {
+       font-size:80px; 
+    }
     /*
     .container > p {
         font-size:80px; 
