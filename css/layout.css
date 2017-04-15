@@ -871,6 +871,10 @@ footer ul.photostream li a {
        line-height:80px;
     }
     
+    .drop-cap:first-letter {
+        font-size:110px;
+    }
+    
     .mobile-big * {
        font-size:70px;
        line-height:80px;
@@ -890,9 +894,7 @@ footer ul.photostream li a {
         line-height:90px;       
     }
     
-    .drop-cap:first-letter {
-        font-size:110px;
-    }
+    
     
  
     */
