@@ -844,7 +844,7 @@ footer ul.photostream li a {
 
 @media screen and (max-device-width: 640px){
     
-    .drop-cap {
+    p {
        font-size:65px; 
        line-height:75px;
     }
@@ -868,6 +868,11 @@ footer ul.photostream li a {
     h2 {
        font-size:70px; 
        margin-bottom:40px;
+    }
+    
+    ul {
+       font-size:65px; 
+       line-height:75px;  
     }
 
 }
