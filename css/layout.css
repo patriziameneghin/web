@@ -874,5 +874,8 @@ footer ul.photostream li a {
        font-size:65px; 
        line-height:75px;  
     }
+    li {
+       line-height:75px;  
+    }
 
 }
